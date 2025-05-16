@@ -1,5 +1,5 @@
 # NotaLog
-Unity Advanced Display Log System - Beta
+Unity In-Game display log console
 
 ## How to Use
 
